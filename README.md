@@ -1,6 +1,6 @@
 md5perl
 ======
-Plaintext->MD5Hash
+A little skript to give out md5 hashes e.g. for passwords. I keep on forgetting how to do this or deleting the file so I keep it here;-)
 
 ## Contact
 * http://repat.de
